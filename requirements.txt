@@ -1,0 +1,6 @@
+No external Python packages required.
+Uses Python standard library.
+System dependencies:
+- isc-dhcp-client
+- iproute2
+- resolvconf/systemd-resolved optional

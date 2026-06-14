@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+ghostnic_report.html
+reports/
+vpn_profiles/
+*.conf
